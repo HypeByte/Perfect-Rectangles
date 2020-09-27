@@ -1,2 +1,2 @@
 # CompetitiveProgrammingMath-RectangleParty
-This program is from a programming competition I did on a math discord server. The problem is giving n number of coordinates such that n >= 4, output the number of rectangles parallel to the X or Y axis.
+This program is from a programming competition I did on a math discord server. The problem is giving n number of coordinates such that n >= 4, output the number of rectangles parallel to the X or Y axis. This program here is to demonstrate my problem solving and critical thinking skills, as well as my math power. This program was made and uploaded to github when I was 13 years old. I am still 13 years old.
